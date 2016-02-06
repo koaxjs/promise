@@ -2,7 +2,7 @@
   "name": "@koax/promise",
   "description": "Koax promise middleware.",
   "repository": "git://github.com/koaxjs/promise.git",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
